@@ -19,7 +19,7 @@ These versions are confirmed to work seamlessly together. Ensure all dependencie
   ```bash
   pip install ollama
 
-## LiveChatBot Class: A Voice-Enabled Time-Wasting Conversational Agent
+## 🤖 LiveChatBot Class: A Voice-Enabled Time-Wasting Conversational Agent
 
 The `LiveChatBot` class is designed to interact with scam callers, keeping them engaged by simulating a slightly confused but overly polite persona. It leverages speech recognition, language modeling, and text-to-speech synthesis to create an interactive voice-based agent.
 
