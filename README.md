@@ -41,7 +41,8 @@ The `LiveChatBot` class is designed to interact with scam callers, keeping them 
 
 
 <div align="center">
-  <img src=file:///Users/akhilsangaonkar/Downloads/Start.png>
+  ![Start](https://github.com/user-attachments/assets/a7b1d65e-4f0f-45c6-a9c5-4c11e522dfd5)
+
 </div>
 
 
