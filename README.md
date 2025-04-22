@@ -35,6 +35,11 @@ The `LiveChatBot` class is designed to interact with scam callers, keeping them 
 
 3. **TTS Model** (Text-to-Speech)
    - The bot uses Coqui's `TTS` for converting text back into speech to respond to the scam caller in a natural-sounding voice.
+  
+
+
+
+![Start](https://github.com/user-attachments/assets/e9083321-72e7-41ea-a81f-ec910bde67a1)
 
 
 
