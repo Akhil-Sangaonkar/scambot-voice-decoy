@@ -28,7 +28,7 @@ The `LiveChatBot` class is designed to interact with scam callers, keeping them 
    - The `LiveChatBot` uses OpenAI's `Whisper` model for transcribing audio input into text. This allows it to understand the scam caller's speech.
 
 2. **Llama Model** (Language Model)
-   - A language model (e.g., Gemma 3:1b) is used to generate a nonsensical, slightly confused response to keep the scam caller engaged.
+   - A language model (Gemma 3:1b) is used to generate a nonsensical, slightly confused response to keep the scam caller engaged.
 
 3. **TTS Model** (Text-to-Speech)
    - The bot uses Coqui's `TTS` for converting text back into speech to respond to the scam caller in a natural-sounding voice.
