@@ -14,7 +14,7 @@ Ensure your environment meets the following requirements:
 
 These versions are confirmed to work seamlessly together. Ensure all dependencies are installed as specified to avoid compatibility issues.
 
-- **Ollama**: Install the Ollama Python library by running:&#8203;:contentReference[oaicite:0]{index=0}
+- **Ollama**: Install the Ollama Python library by running
 
   ```bash
   pip install ollama
